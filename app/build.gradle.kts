@@ -45,4 +45,8 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+
+    //Shrimmer Effect
+    implementation("com.facebook.shimmer:shimmer:0.5.0")
+
 }
